@@ -4,14 +4,13 @@
 
 ## Python
 
-* [파이썬을 활용한 컴퓨터 조작]: ./python실습.md
-
+* [파이썬을 활용한 컴퓨터 조작](./python실습.md)
   * os
   * webbrowser
   * file
 
 ## Git
 
-* [Git 기초]: ./Git.md
+* [Git 기초](./Git.md)
 
-  
+
